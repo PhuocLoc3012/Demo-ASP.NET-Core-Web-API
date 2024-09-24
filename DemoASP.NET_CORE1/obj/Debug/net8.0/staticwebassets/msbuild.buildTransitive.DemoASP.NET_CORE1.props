@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DemoASP.NET_CORE1.props" />
+</Project>

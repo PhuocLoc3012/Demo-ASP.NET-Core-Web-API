@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\repositories\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\helpers\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\helpers\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\dtos\\comment\\updatecommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\dtos\\comment\\updatecommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\mappers\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|d:\\programming\\cshape\\demoasp.net_core1\\demoasp.net_core1\\migrations\\20240920031016_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA410C7-3B6F-49D0-B0E2-3DEFEF689F30}|DemoASP.NET_CORE1\\DemoASP.NET_CORE1.csproj|solutionrelative:demoasp.net_core1\\migrations\\20240920031016_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Models\\AppUser.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Models\\AppUser.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:28:41.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueryObject.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Helpers\\QueryObject.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Helpers\\QueryObject.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Helpers\\QueryObject.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Helpers\\QueryObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T09:27:18.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Controllers\\StockController.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Controllers\\StockController.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Controllers\\StockController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwCEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:17:05.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Repositories\\StockRepository.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Repositories\\StockRepository.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Repositories\\StockRepository.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Repositories\\StockRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwDcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:52:33.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Controllers\\CommentController.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:32:03.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Interfaces\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Interfaces\\IStockRepository.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Interfaces\\IStockRepository.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Interfaces\\IStockRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:49:35.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StockDto.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Dtos\\Stock\\StockDto.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Dtos\\Stock\\StockDto.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Dtos\\Stock\\StockDto.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Dtos\\Stock\\StockDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:35:21.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateStockRequestDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Dtos\\Stock\\CreateStockRequestDTO.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Dtos\\Stock\\CreateStockRequestDTO.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Dtos\\Stock\\CreateStockRequestDTO.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Dtos\\Stock\\CreateStockRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:09:23.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockMappers.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Mappers\\StockMappers.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Mappers\\StockMappers.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Mappers\\StockMappers.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Mappers\\StockMappers.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBUAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:37:59.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateStockRequestDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Dtos\\Stock\\UpdateStockRequestDTO.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Dtos\\Stock\\UpdateStockRequestDTO.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Dtos\\Stock\\UpdateStockRequestDTO.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Dtos\\Stock\\UpdateStockRequestDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:12:28.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Program.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Program.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Program.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAvwDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:01:29.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateCommentRequestDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Dtos\\Comment\\UpdateCommentRequestDTO.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Dtos\\Comment\\UpdateCommentRequestDTO.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Dtos\\Comment\\UpdateCommentRequestDTO.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Dtos\\Comment\\UpdateCommentRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T09:11:51.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateCommentDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Dtos\\Comment\\CreateCommentDTO.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Dtos\\Comment\\CreateCommentDTO.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Dtos\\Comment\\CreateCommentDTO.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Dtos\\Comment\\CreateCommentDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T16:48:19.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Repositories\\CommentRepository.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Repositories\\CommentRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:24:19.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Interfaces\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Interfaces\\ICommentRepository.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Interfaces\\ICommentRepository.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Interfaces\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:23:03.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommentMapper.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Mappers\\CommentMapper.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Mappers\\CommentMapper.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Mappers\\CommentMapper.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Mappers\\CommentMapper.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA5wB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:41:31.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Dtos\\Comment\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Dtos\\Comment\\CommentDTO.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Dtos\\Comment\\CommentDTO.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Dtos\\Comment\\CommentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:34:36.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Models\\Comment.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Models\\Comment.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Models\\Comment.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:29:40.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Models\\Stock.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Models\\Stock.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Models\\Stock.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:29:33.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:57:30.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T04:03:07.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:36:50.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240920031016_init.cs",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Migrations\\20240920031016_init.cs",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\Migrations\\20240920031016_init.cs",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\Migrations\\20240920031016_init.cs",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\Migrations\\20240920031016_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:10:16.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoASP.NET_CORE1\\appsettings.json",
+              "ToolTip": "D:\\Programming\\CShape\\DemoASP.NET_CORE1\\DemoASP.NET_CORE1\\appsettings.json",
+              "RelativeToolTip": "DemoASP.NET_CORE1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T03:03:57.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
